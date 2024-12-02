@@ -1,4 +1,7 @@
 # Customer Churn Prediction
+
+![Screenshot 2024-12-02 041355](https://github.com/user-attachments/assets/a324faa6-64fc-467b-ba3c-818b6cdc295a)
+
 ## Project Overview
 Model (model.ipynb):
 - This file handles the machine learning model: loading the models, preprocessing the data, and predicting churn probabilities.
